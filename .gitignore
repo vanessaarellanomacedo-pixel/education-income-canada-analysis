@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
+*.zip
+data/98100411.csv
