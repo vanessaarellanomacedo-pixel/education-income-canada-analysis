@@ -24,6 +24,9 @@ The dataset used in this project comes from Statistics Canada.
 **Income year:** 2020  
 **Age group:** 25 to 64 years  
 **Gender:** Total - Gender  
+**Source:** [Statistics Canada Table 98-10-0411-01] (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810041101)
+
+**Note:** The full CSV file was not uploaded to this repository due to its large file size. The data can be downloaded directly from Statistics Canada using the table number above.
 
 ## Tools Used
 
